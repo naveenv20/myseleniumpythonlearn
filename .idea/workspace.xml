@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a346b8f1-b02d-4946-ae9d-3b6f0345faff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WM7LRPvAtgeWADEbE1Ss3s6kGa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/files/filewithandas.py" />
+  </component>
+  <component name="RunManager" selected="Python.filedemowithandas">
+    <configuration name="filedemowithandas" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python_wksp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/filewithandas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="variable_rules" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python_wksp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicsyntax" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicsyntax/variable_rules.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="variables" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python_wksp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicsyntax" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicsyntax/variables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.variable_rules" />
+      <item itemvalue="Python.filedemowithandas" />
+      <item itemvalue="Python.variables" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a346b8f1-b02d-4946-ae9d-3b6f0345faff" name="Default Changelist" comment="" />
+      <created>1578947553871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578947553871</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580484324920">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state x="418" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.1920.1000@0.31.1920.1000" timestamp="1580484324920" />
+    <state x="743" y="290" width="430" height="486" key="FileChooserDialogImpl" timestamp="1580484324006">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state x="743" y="290" width="430" height="486" key="FileChooserDialogImpl/0.31.1920.1000@0.31.1920.1000" timestamp="1580484324006" />
+    <state width="949" height="262" key="GridCell.Tab.0.bottom" timestamp="1580484512588">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state width="949" height="262" key="GridCell.Tab.0.bottom/0.31.1920.1000@0.31.1920.1000" timestamp="1580484512588" />
+    <state width="949" height="262" key="GridCell.Tab.0.center" timestamp="1580484512587">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state width="949" height="262" key="GridCell.Tab.0.center/0.31.1920.1000@0.31.1920.1000" timestamp="1580484512587" />
+    <state width="949" height="262" key="GridCell.Tab.0.left" timestamp="1580484512587">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state width="949" height="262" key="GridCell.Tab.0.left/0.31.1920.1000@0.31.1920.1000" timestamp="1580484512587" />
+    <state width="949" height="262" key="GridCell.Tab.0.right" timestamp="1580484512588">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state width="949" height="262" key="GridCell.Tab.0.right/0.31.1920.1000@0.31.1920.1000" timestamp="1580484512588" />
+    <state x="626" y="360" key="com.intellij.ide.util.TipDialog" timestamp="1580482347508">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state x="626" y="360" key="com.intellij.ide.util.TipDialog/0.31.1920.1000@0.31.1920.1000" timestamp="1580482347508" />
+  </component>
+</project>
