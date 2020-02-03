@@ -15,4 +15,10 @@ with and as
 print("write as write start")
 
 with open("withas.txt","w") as with_as_write:
-    with_as_write.write("first line-sairam")
+    with_as_write.write("first line-sairam \n")
+    with_as_write.write("second line-sairam\n")
+
+print("#"*20)
+print("With Read As Start")
+with open("withas.txt","r") as with_as_read:
+    print(str(with_as_read.read()))
